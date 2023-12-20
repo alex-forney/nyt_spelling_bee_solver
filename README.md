@@ -56,24 +56,26 @@ python bee_solver.py -c e -l a b c k l o
 
 ```yaml
 44 words, including 3 pangrams, were found:
-	able
-	allele
-	allocable
+    able
+    allele
+    allocable
     ...
 ```
 
 ## Troubleshooting/FAQ
 **Q: The program is not accepting my input. What should I do?**
+
 A: Ensure that you are entering single alphabetical characters for the center letter and up to six distinct alphabetical characters for the outer letters.
 
 **Q: How do I stop the program?**
+
 A: You can terminate the program at any time by pressing `Ctrl+C` in the terminal.
 
 ## Contributing
 Contributions to the NYT Spelling Bee Solver are welcome! If you have suggestions for improvements or bug fixes, please feel free to fork the repository and submit a pull request.
 
 ## Contact
-For any questions or feedback regarding the program, please open an issue in the repository.
+For any feedback regarding the program, please open an issue in the repository.
 
 ## License
 This project is open-source and available under [GNU GPLv3](COPYING).
