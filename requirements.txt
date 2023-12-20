@@ -1,0 +1,6 @@
+docopt>=0.6.2
+inquirerpy>=0.3.4
+num2words>=0.5.12
+pfzy<0.4.0,>=0.3.1
+prompt-toolkit<4.0.0,>=3.0.1
+wcwidth>=0.2.6
