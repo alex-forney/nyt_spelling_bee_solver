@@ -1,5 +1,3 @@
-# Up-to-date as of December 20, 2023
-
 aargh
 abaci
 aback
@@ -432,6 +430,7 @@ annex
 annexed
 annihilate
 annihilation
+annotate
 annotating
 annotation
 annotator
@@ -609,6 +608,7 @@ atom
 atomic
 atonal
 atonally
+atone
 atoning
 atop
 atria
@@ -893,7 +893,6 @@ bayed
 baying
 bayou
 bazaar
-bazoo
 bazooka
 beach
 beachcomb
@@ -991,6 +990,8 @@ bellow
 bellowed
 belly
 bellyache
+belong
+belonged
 below
 belt
 belting
@@ -1145,6 +1146,8 @@ blech
 bled
 bleed
 bleep
+blend
+blended
 blew
 blight
 blimp
@@ -1176,6 +1179,7 @@ blogged
 blogging
 bloke
 blond
+blonde
 blood
 bloodbath
 blooded
@@ -1248,6 +1252,7 @@ boing
 boink
 bola
 bold
+bolded
 boldly
 boll
 bollard
@@ -1300,6 +1305,8 @@ boomed
 boomlet
 boomy
 boon
+boondoggle
+boondoggled
 boor
 boot
 booted
@@ -1430,6 +1437,7 @@ bugling
 build
 built
 bulb
+bulbed
 bulging
 bulgur
 bulgy
@@ -1542,6 +1550,7 @@ calamari
 calamity
 calcify
 calcite
+calculate
 calculator
 calculi
 calf
@@ -2614,7 +2623,6 @@ deaden
 deadened
 deadening
 deadeye
-deadfall
 deadhead
 deadheaded
 deadlock
@@ -2756,7 +2764,6 @@ deluge
 deluged
 delve
 delved
-dement
 demented
 demimonde
 demit
@@ -2774,6 +2781,7 @@ denim
 denizen
 denote
 denoted
+denouement
 denounce
 denounced
 dent
@@ -3174,6 +3182,7 @@ dunked
 dunned
 dunning
 dunno
+duodenum
 duopoly
 dupe
 duped
@@ -3415,6 +3424,7 @@ enlivening
 enmity
 ennead
 ennoble
+ennobled
 ennoblement
 ennui
 enoki
@@ -3447,6 +3457,7 @@ epic
 epicene
 epileptic
 epilog
+epiphany
 epitome
 epoch
 epode
@@ -3602,6 +3613,8 @@ fair
 fairly
 fairy
 faith
+fake
+faked
 faking
 falafel
 fall
@@ -3738,6 +3751,7 @@ fifing
 fifteen
 fifth
 fifty
+figgy
 fight
 filch
 filching
@@ -3808,12 +3822,15 @@ flail
 flailing
 flair
 flak
+flake
+flaked
 flaking
 flaky
 flame
 flan
 flanging
 flank
+flanked
 flanking
 flannel
 flap
@@ -3901,6 +3918,7 @@ flout
 flow
 flowed
 flowing
+flown
 flub
 fluctuant
 fluctuate
@@ -4358,7 +4376,6 @@ gobbling
 goblin
 goby
 godchild
-godhood
 godly
 goggle
 goggled
@@ -4525,7 +4542,6 @@ guilty
 gulag
 gulf
 gull
-gullably
 gulled
 gullet
 gullibility
@@ -4986,6 +5002,7 @@ hyena
 hymen
 hymn
 hymnal
+hymnary
 hymnbook
 hyoid
 hype
@@ -5255,6 +5272,7 @@ inhibitor
 inimical
 inimically
 initial
+initialization
 initialize
 initially
 initiate
@@ -5455,6 +5473,7 @@ keening
 keep
 keepable
 keeping
+keloid
 kelp
 kempt
 kennel
@@ -5637,7 +5656,6 @@ lapidary
 lapped
 lapping
 laptop
-larboard
 larch
 lard
 largo
@@ -5862,6 +5880,7 @@ lint
 lintel
 linty
 lion
+lionization
 lionizing
 lipid
 lipo
@@ -5882,6 +5901,7 @@ litho
 litigate
 litigator
 little
+littleneck
 littoral
 liturgy
 livability
@@ -6509,6 +6529,7 @@ mollycoddled
 molt
 molten
 moment
+momentum
 momma
 mommy
 monad
@@ -6542,6 +6563,7 @@ monte
 month
 monthlong
 monthly
+monument
 mooch
 mooching
 mood
@@ -6606,7 +6628,9 @@ mottle
 motto
 moue
 mound
+mounded
 mount
+mounted
 mourn
 mournful
 mourning
@@ -6670,6 +6694,7 @@ myopic
 myriad
 myrrh
 myth
+mythic
 mythology
 naan
 nabbed
@@ -6723,6 +6748,7 @@ natant
 natch
 nation
 national
+nationalization
 nationhood
 native
 nativity
@@ -6770,6 +6796,7 @@ nene
 neocon
 neolith
 neon
+neonate
 neophyte
 nepenthe
 nephew
@@ -6888,6 +6915,7 @@ nonprofit
 nonrandom
 nonroyal
 nontoxic
+nonunion
 nonviolent
 nonvocal
 nonvoting
@@ -6907,6 +6935,7 @@ normal
 normally
 north
 notably
+notate
 notating
 notation
 notator
@@ -6964,6 +6993,7 @@ nylon
 oaken
 oaky
 oarlock
+oaten
 oath
 oatmeal
 oaty
@@ -7003,6 +7033,7 @@ oculi
 oddball
 oddity
 oddly
+oddment
 odea
 odeon
 odeum
@@ -7076,7 +7107,6 @@ oompah
 oomph
 ooze
 oozing
-opah
 opal
 open
 openable
@@ -7258,6 +7288,7 @@ pandit
 pane
 paned
 panel
+panettone
 pang
 panhandle
 panhandled
@@ -7459,6 +7490,7 @@ pewee
 peyote
 pfft
 phablet
+phage
 phalli
 phantom
 pharaoh
@@ -7494,6 +7526,7 @@ photomap
 photon
 photopic
 phyla
+phyllo
 piano
 pianola
 piazza
@@ -7774,6 +7807,7 @@ potato
 potbelly
 potency
 potent
+potentate
 potently
 pothead
 pothook
@@ -7851,7 +7885,6 @@ propagator
 proportion
 propound
 propping
-propyl
 proton
 protract
 protractor
@@ -8056,6 +8089,7 @@ rhino
 rhombi
 rhomboid
 rhythm
+rhythmic
 rial
 ribald
 ribbing
@@ -8222,6 +8256,7 @@ tactical
 tactically
 tactician
 tactile
+tactility
 tactual
 taffeta
 taffy
@@ -8280,6 +8315,7 @@ tank
 tanned
 tannic
 tannin
+tantalization
 tantalize
 tantalum
 tantamount
@@ -8487,6 +8523,7 @@ tibial
 tick
 ticket
 ticking
+tickle
 ticktock
 tidal
 tidally
@@ -9037,7 +9074,10 @@ unmet
 unmindful
 unmoor
 unmooring
+unmount
+unmounted
 unmute
+unmuted
 unmuzzling
 unnatural
 unnaturally
@@ -9205,7 +9245,6 @@ viable
 viably
 viaduct
 vial
-viand
 vibe
 vibed
 vibing
@@ -9504,6 +9543,7 @@ willow
 willowy
 wilt
 wily
+winch
 wincing
 wind
 windblown

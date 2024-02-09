@@ -24,6 +24,7 @@ augural
 availably
 babydoll
 baddy
+bazoo
 bethel
 biddy
 boobird
@@ -60,6 +61,8 @@ cracky
 cray
 cuppa
 cupule
+deadfall
+dement
 dobbin
 donator
 dryland
@@ -89,6 +92,8 @@ gammon
 gappy
 giftee
 glial
+godhood
+gullably
 hadith
 hallo
 halloo
@@ -123,6 +128,7 @@ laically
 lamella
 lamellae
 landau
+larboard
 leafage
 legman
 legmen
@@ -160,6 +166,7 @@ odic
 odorant
 ogive
 ohmage
+opah
 opponency
 oribi
 orlop
@@ -178,6 +185,7 @@ potation
 prof
 propanol
 propman
+propyl
 pullup
 radicand
 rhinal
@@ -214,6 +222,7 @@ unlade
 unladed
 uveal
 vacay
+viand
 vidiot
 xylene
 yean
