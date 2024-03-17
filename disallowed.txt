@@ -28,6 +28,7 @@ bazoo
 bethel
 biddy
 boobird
+bourg
 canto
 capacitate
 capicola
@@ -61,6 +62,7 @@ cracky
 cray
 cuppa
 cupule
+dace
 deadfall
 dement
 dobbin
@@ -97,6 +99,7 @@ gullably
 hadith
 hallo
 halloo
+hatting
 hemal
 hemic
 hewable
@@ -149,6 +152,7 @@ megohm
 menage
 mick
 modulo
+monotonic
 muni
 nappy
 navally
@@ -164,7 +168,6 @@ nurturant
 ocotillo
 odic
 odorant
-ogive
 ohmage
 opah
 opponency

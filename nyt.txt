@@ -41,6 +41,7 @@ about
 above
 abracadabra
 abroad
+abundance
 abut
 acacia
 academe
@@ -204,6 +205,7 @@ agility
 aging
 agita
 agitate
+agitating
 agitation
 agitator
 agleam
@@ -463,6 +465,7 @@ antennae
 anthem
 anthill
 anti
+antiaging
 antiaircraft
 antic
 antically
@@ -537,6 +540,7 @@ aquatic
 aquatint
 arabica
 arachnid
+arancini
 arbitrary
 arbitrator
 arbor
@@ -625,6 +629,7 @@ attacking
 attagirl
 attain
 attainability
+attaining
 attainment
 attar
 attempt
@@ -821,6 +826,7 @@ band
 bandaging
 bandana
 bandanna
+bandeau
 banded
 banding
 bandwagon
@@ -922,6 +928,8 @@ became
 beck
 beckon
 become
+bedaub
+bedaubed
 bedded
 bedding
 bedeck
@@ -944,6 +952,7 @@ beeping
 beet
 beetle
 befall
+befallen
 befell
 befit
 befitted
@@ -1339,7 +1348,6 @@ bound
 bounded
 bounty
 bourbon
-bourg
 bout
 bovid
 bowed
@@ -2104,7 +2112,9 @@ coffined
 cofound
 cofounded
 cogency
+cogent
 cognac
+cognate
 cognition
 cogwheel
 coho
@@ -2268,6 +2278,7 @@ confounded
 confront
 conga
 congaed
+congee
 conic
 conical
 conically
@@ -2382,8 +2393,10 @@ corrida
 corridor
 corrupt
 cortado
+cotangent
 cote
 cotillion
+cottage
 cotton
 cottoned
 cottoning
@@ -2483,6 +2496,8 @@ crying
 cryonic
 crypt
 cryptic
+cube
+cubed
 cuckoo
 cuddle
 cuddled
@@ -2548,7 +2563,6 @@ czarina
 dabbed
 dabbing
 dabbling
-dace
 dacha
 daddy
 daft
@@ -2596,6 +2610,7 @@ dating
 dative
 datum
 daub
+daubed
 daunt
 daunted
 daunting
@@ -2887,6 +2902,8 @@ dilemma
 dill
 dilly
 dillydally
+dilute
+diluted
 dime
 dimity
 dimmed
@@ -3213,6 +3230,7 @@ eaglet
 eatable
 eaten
 eave
+eaved
 ebbed
 ebbing
 ebon
@@ -3227,6 +3245,7 @@ ecliptic
 ecocide
 ecology
 economic
+ecotage
 ecotone
 ecotype
 edamame
@@ -3504,6 +3523,7 @@ evoke
 evoking
 evolve
 evolved
+evolving
 exact
 exacta
 exactable
@@ -3763,6 +3783,7 @@ filial
 filially
 filing
 fill
+fillable
 filled
 fillet
 filling
@@ -4031,6 +4052,7 @@ frag
 fragging
 fragrant
 frail
+frailly
 frailty
 framing
 franc
@@ -4077,6 +4099,7 @@ fueling
 fugu
 fugue
 fulfill
+fulfilled
 fulfilling
 full
 fullback
@@ -4176,6 +4199,7 @@ garlic
 gate
 gateau
 gated
+gating
 gator
 gaudy
 gauge
@@ -4239,6 +4263,7 @@ gewgaw
 ghee
 ghetto
 ghoul
+giant
 gibbon
 gibe
 gibed
@@ -4339,6 +4364,7 @@ glorify
 glory
 glottal
 glove
+gloving
 glow
 glowing
 glue
@@ -4681,7 +4707,6 @@ hatha
 hating
 hatrack
 hatted
-hatting
 haughty
 haul
 haulage
@@ -5276,6 +5301,7 @@ initialization
 initialize
 initially
 initiate
+initiating
 initiation
 initiative
 initiator
@@ -5363,6 +5389,7 @@ invoicing
 invoke
 invoking
 involve
+involving
 inward
 iodide
 iodine
@@ -5381,6 +5408,7 @@ iron
 ironic
 ironing
 irony
+irrigator
 irritant
 irritation
 irrupt
@@ -5402,6 +5430,7 @@ jackboot
 jackpot
 jade
 jaded
+jagging
 jail
 jailbird
 jake
@@ -6041,6 +6070,7 @@ loveably
 loved
 lovely
 lovey
+loving
 lowball
 lowdown
 lowed
@@ -6396,6 +6426,7 @@ micro
 microcopy
 microfilm
 microform
+micromini
 micron
 midair
 midbrain
@@ -6556,7 +6587,6 @@ mononym
 monophonic
 monopod
 monotone
-monotonic
 monotony
 monoxide
 monte
@@ -6907,6 +6937,7 @@ nonfiction
 nonfinite
 nonillion
 nonlethal
+nonliving
 nonlocal
 nonpaid
 nonpolar
@@ -7021,6 +7052,7 @@ occur
 ocean
 ocelot
 octad
+octagon
 octal
 octant
 octave
@@ -7057,6 +7089,7 @@ offprint
 offtrack
 often
 ogee
+ogive
 ogle
 ogled
 ogling
@@ -7900,6 +7933,7 @@ puck
 puddle
 puddled
 puff
+puffed
 puffin
 puke
 pule
@@ -8262,6 +8296,7 @@ taffeta
 taffy
 tagalong
 tagged
+tagging
 tagliatelle
 tahini
 taiga
@@ -8275,6 +8310,7 @@ taillight
 tailor
 tailwind
 taint
+tainting
 take
 taken
 talc
@@ -8315,6 +8351,7 @@ tank
 tanned
 tannic
 tannin
+tanning
 tantalization
 tantalize
 tantalum
@@ -8347,6 +8384,7 @@ tartar
 tartly
 tatami
 tatted
+tatting
 tattle
 tattletale
 tattoo
@@ -8661,6 +8699,7 @@ tonguing
 tonic
 tonight
 toning
+tonnage
 tonne
 tontine
 tony
@@ -8927,6 +8966,7 @@ unattended
 unbag
 unbagging
 unban
+unbanned
 unbanning
 unbar
 unbelief
@@ -9011,6 +9051,7 @@ unfurl
 ungiving
 ungodly
 unground
+ungroup
 unguent
 unhand
 unhanded
@@ -9131,6 +9172,7 @@ updo
 updraft
 upend
 upended
+upfield
 upheaval
 upheave
 upkeep
@@ -9240,6 +9282,7 @@ venule
 veto
 vetoed
 vetted
+vexed
 viability
 viable
 viably
@@ -9303,6 +9346,7 @@ vividity
 vividly
 vivified
 vlog
+vlogging
 voguing
 voice
 voiced
