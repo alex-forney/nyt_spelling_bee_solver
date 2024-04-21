@@ -29,6 +29,7 @@ bethel
 biddy
 boobird
 bourg
+canful
 canto
 capacitate
 capicola
@@ -69,6 +70,7 @@ dobbin
 donator
 dryland
 duad
+duded
 ectype
 edenic
 elute
@@ -113,7 +115,6 @@ holla
 hootch
 horal
 hullo
-humph
 iconicity
 ilex
 iliad

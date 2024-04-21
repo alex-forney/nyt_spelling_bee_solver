@@ -123,6 +123,7 @@ added
 addend
 addenda
 addict
+addicted
 addiction
 adding
 addition
@@ -198,6 +199,7 @@ aged
 ageing
 agelong
 agenda
+agendum
 agent
 agile
 agilely
@@ -275,6 +277,7 @@ allayed
 allaying
 allege
 alleged
+allegedly
 allegiance
 allele
 alleviate
@@ -984,6 +987,7 @@ belied
 belief
 believable
 believe
+believing
 belittle
 belittlement
 belittling
@@ -1034,6 +1038,8 @@ betiding
 betook
 betting
 bevel
+beveling
+bevelling
 bevy
 bewitch
 bezel
@@ -1197,6 +1203,7 @@ bloodied
 bloody
 bloom
 bloomed
+blooming
 bloop
 blot
 blotto
@@ -1273,6 +1280,7 @@ bomb
 bombard
 bombe
 bombed
+bombing
 bonanza
 bonbon
 bond
@@ -1311,6 +1319,7 @@ bookwork
 boom
 boombox
 boomed
+booming
 boomlet
 boomy
 boon
@@ -1612,7 +1621,6 @@ candy
 candyman
 cane
 caned
-canful
 canid
 canine
 caning
@@ -1969,6 +1977,7 @@ clank
 clanking
 clap
 clarify
+clave
 claw
 clawing
 clay
@@ -2573,6 +2582,8 @@ dainty
 dairy
 dairymaid
 dally
+damage
+damaged
 dame
 dammed
 dammit
@@ -2679,6 +2690,8 @@ decency
 decent
 decide
 decided
+decimate
+decimated
 deck
 decked
 deckle
@@ -2693,6 +2706,9 @@ decouple
 decoupled
 decoy
 decoyed
+dedicate
+dedicated
+dedicatee
 deduce
 deduced
 deduct
@@ -2831,6 +2847,8 @@ detox
 detoxed
 detoxified
 deuce
+devalue
+devalued
 devein
 deveined
 develop
@@ -2871,6 +2889,8 @@ diced
 dicey
 dicing
 dicta
+dictate
+dictated
 dictation
 dictator
 diction
@@ -3166,7 +3186,6 @@ duct
 ducted
 ductility
 dude
-duded
 duding
 duel
 dueled
@@ -3346,6 +3365,7 @@ elope
 elude
 eluded
 emaciate
+emaciated
 email
 emailed
 emanate
@@ -3406,6 +3426,7 @@ enclave
 encode
 encoded
 ended
+endgame
 ending
 endive
 endnote
@@ -3502,6 +3523,8 @@ etymology
 eunuch
 evade
 evaded
+evaluate
+evaluated
 even
 evened
 evening
@@ -4166,6 +4189,7 @@ gambit
 gamble
 game
 gamecock
+gamed
 gamelan
 gamely
 gameplay
@@ -4236,6 +4260,7 @@ gelid
 gelled
 gelling
 gelt
+gemmed
 gemology
 gene
 genealogy
@@ -4528,6 +4553,7 @@ groggy
 groin
 groom
 grooming
+groovy
 groping
 grotto
 grouch
@@ -4537,6 +4563,7 @@ groundhog
 group
 grout
 grow
+growing
 growl
 grown
 grownup
@@ -4576,9 +4603,11 @@ gulling
 gully
 gulp
 gumdrop
+gummed
 gumming
 gunk
 gunman
+gunmen
 gunned
 gunning
 gunport
@@ -4661,6 +4690,7 @@ handout
 handrail
 handy
 hang
+hangable
 hangar
 hangdog
 hanged
@@ -5004,6 +5034,7 @@ humid
 humidified
 hummed
 hump
+humph
 hunch
 hunched
 hunching
@@ -5103,6 +5134,7 @@ imbecile
 imbecilic
 imbibe
 imbibed
+imbibing
 imbroglio
 imitate
 imitated
@@ -5282,6 +5314,7 @@ infringing
 ingenue
 ingenuity
 ingot
+ingrown
 inhabit
 inhabitant
 inhabiting
@@ -5328,6 +5361,7 @@ innocent
 innovating
 innovation
 inpatient
+input
 inroad
 intact
 intactly
@@ -5407,6 +5441,8 @@ irking
 iron
 ironic
 ironing
+ironwork
+ironworking
 irony
 irrigator
 irritant
@@ -5423,6 +5459,7 @@ itemize
 itemizing
 itty
 ivied
+ivory
 jabot
 jack
 jackal
@@ -5504,6 +5541,7 @@ keepable
 keeping
 keloid
 kelp
+kelpie
 kempt
 kennel
 kenneled
@@ -5647,6 +5685,7 @@ laity
 lake
 lakebed
 lallygag
+lallygagged
 lallygagging
 lama
 lamb
@@ -5869,6 +5908,7 @@ likelihood
 liken
 liking
 lilac
+lilliputian
 lilt
 lilted
 lilting
@@ -6225,6 +6265,7 @@ mammon
 mammoth
 manage
 manageable
+managed
 management
 managing
 manatee
@@ -6328,6 +6369,8 @@ mayoral
 maypole
 maze
 mead
+meadow
+meadowy
 meal
 mealy
 mean
@@ -6352,6 +6395,8 @@ medial
 mediate
 mediated
 medic
+medicate
+medicated
 medico
 medieval
 meditate
@@ -6396,6 +6441,7 @@ menthol
 mention
 menu
 meow
+meowed
 meowing
 meta
 metadata
@@ -6527,6 +6573,7 @@ mnemonic
 moan
 moat
 mobbed
+mobbing
 mobile
 mobility
 mobilize
@@ -6670,6 +6717,7 @@ mouthful
 movably
 move
 movie
+mowed
 mown
 moxie
 much
@@ -6683,6 +6731,7 @@ mudflat
 mudroom
 muff
 muffin
+mugged
 mugging
 mule
 mull
@@ -6951,6 +7000,7 @@ nonviolent
 nonvocal
 nonvoting
 nonword
+nonworking
 noob
 noodle
 noodled
@@ -7016,6 +7066,7 @@ nunchuck
 nunchuk
 nuncio
 nunhood
+nuptial
 nuthatch
 nutrition
 nutty
@@ -7255,6 +7306,7 @@ paced
 pacing
 pack
 packable
+packrat
 pact
 padded
 padding
@@ -7283,6 +7335,7 @@ painkilling
 paint
 paintball
 pair
+pairing
 palace
 palapa
 palatable
@@ -7366,6 +7419,7 @@ paratroop
 parch
 pardon
 pariah
+paring
 parity
 park
 parka
@@ -7943,6 +7997,7 @@ pull
 pullback
 pulled
 pullet
+pulley
 pullout
 pulp
 pulped
@@ -7967,6 +8022,7 @@ pupate
 pupil
 puppet
 puppy
+puppylike
 purging
 purity
 purl
@@ -8095,6 +8151,7 @@ rapid
 rapidity
 rapidly
 rapini
+rapping
 rapport
 rapt
 raptor
@@ -8227,6 +8284,7 @@ rout
 rowan
 rowdily
 rowdy
+rowing
 royal
 royally
 royalty
@@ -8811,6 +8869,7 @@ triad
 trial
 tribal
 tributary
+trick
 tricolor
 tricorn
 tricot
@@ -9013,6 +9072,7 @@ unction
 uncuff
 uncuffed
 uncut
+undamaged
 undated
 undead
 undecided
@@ -9020,6 +9080,7 @@ undefended
 undefined
 undetected
 undid
+undimmed
 undivided
 undo
 undone
@@ -9109,6 +9170,7 @@ unlock
 unloved
 unlovely
 unman
+unmanaged
 unmanly
 unmanning
 unmet
@@ -9227,7 +9289,10 @@ validity
 validly
 valley
 valor
+valuate
+valuated
 value
+valued
 valve
 vamp
 vandal
@@ -9245,6 +9310,7 @@ variant
 varmint
 vary
 vault
+vaulted
 vaxed
 vaxxed
 veal
@@ -9307,6 +9373,7 @@ vied
 view
 viewing
 vigil
+vigor
 vile
 vilely
 vilified
@@ -9330,6 +9397,7 @@ viral
 virality
 virally
 virility
+virology
 virtual
 vital
 vitality
@@ -9678,6 +9746,7 @@ work
 workaday
 workbook
 workday
+working
 workload
 world
 worldly
@@ -9700,6 +9769,7 @@ wringing
 wrinkly
 writ
 wrong
+wronging
 wroth
 wrought
 wrung
@@ -9760,6 +9830,7 @@ yuca
 yucca
 yule
 yummy
+yuppie
 yurt
 zagged
 zagging
